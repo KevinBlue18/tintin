@@ -4687,7 +4687,7 @@ struct help_type help_table[] =
 		"\n"
 		"         This command works similar to a 'while' statement in other languages.\n"
 		"\n"
-		"         When a 'while' command is encourated, the conditional is evaluated,\n"
+		"         When a 'while' command is encouraged, the conditional is evaluated,\n"
 		"         and if TRUE (any non-zero result) the commands are executed. The\n"
 		"         'while' loop will be repeated indefinitely until the conditional is\n"
 		"         FALSE or the #BREAK or #RETURN commands are found.\n"
